@@ -1,0 +1,10 @@
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\bin\Debug\KullanıcıAdıSifre_HW.exe.config
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\bin\Debug\KullanıcıAdıSifre_HW.exe
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\bin\Debug\KullanıcıAdıSifre_HW.pdb
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.Form1.resources
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.Properties.Resources.resources
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.csproj.GenerateResource.cache
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.csproj.CoreCompileInputs.cache
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.exe
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.pdb
+C:\Users\nur\source\repos\KullanıcıAdıSifre_HW\KullanıcıAdıSifre_HW\obj\Debug\KullanıcıAdıSifre_HW.csprojAssemblyReference.cache
